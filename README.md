@@ -5,6 +5,7 @@ Tugas Anda adalah menyiapkan laporan untuk divisi kredit suatu bank. Anda akan m
 
 Laporan Anda akan dipertimbangkan pada saat membuat penilaian kredit untuk calon nasabah. Penilaian kredit digunakan untuk mengevaluasi kemampuan calon peminjam untuk melunasi pinjaman mereka.
 
+# Problem Statement :
 Tujuan:
 Menguji empat hipotesis:
 
@@ -15,3 +16,6 @@ Apakah terdapat korelasi antara status keluarga dengan probabilitas melakukan ga
 Apakah terdapat korelasi antara tingkat pendapatan dengan probabilitas melakukan gagal bayar pinjaman?
 
 Bagaimana tujuan kredit memengaruhi persentase gagal bayar?
+
+# Insights :
+
