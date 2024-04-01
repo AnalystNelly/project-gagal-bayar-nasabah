@@ -4,6 +4,11 @@ Menyiapkan laporan untuk bank bagian kredit. mencari tahu pengaruh status perkaw
 Tugas Anda adalah menyiapkan laporan untuk divisi kredit suatu bank. Anda akan mencari tahu pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam pelunasan pinjaman. Pihak bank sudah memiliki beberapa data mengenai kelayakan kredit nasabah.
 
 Laporan Anda akan dipertimbangkan pada saat membuat penilaian kredit untuk calon nasabah. Penilaian kredit digunakan untuk mengevaluasi kemampuan calon peminjam untuk melunasi pinjaman mereka.
+Dashboard Link 
+- https://public.tableau.com/views/AnalisisGagalBayar/KorelasiJumlahAnak?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/views/AnalisisGagalBayar/korelasistatuskeluarga?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/views/AnalisisGagalBayar/Korelasipendapatan?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/views/AnalisisGagalBayar/tujuankreditmemengaruhipersentasegagalbayar?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 # Problem Statement :
 Tujuan:
